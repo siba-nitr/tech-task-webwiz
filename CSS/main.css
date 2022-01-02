@@ -1,0 +1,73 @@
+a{
+    color: rgb(20, 211, 3);
+   
+}
+a:hover{
+    background-color: rgb(12, 3, 44);
+    color:rgb(184, 31, 11);
+}
+
+body{
+    background-color: rgb(5, 3, 119);
+    /* background-image: url('../img/tech.png'); */
+} 
+
+.info{
+    border-style: solid;
+    margin-left: 12em;
+    height: 30em;
+    width: 30em;
+    padding-left:20em; 
+    padding-top:20px;
+    border-width: thick;
+    border-radius: 2.5em; 
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-style: oblique; 
+    text-shadow: firebrick;
+    /* padding-top: 26.8em; */
+} 
+/* img{
+   padding-left:300px;
+   width:40%
+} */
+.items > div{
+    background: rgb(10, 10, 10);
+    /* height:2vw;
+    width:9vw;
+   m
+    border-style:solid; 
+    border-color: rgba(255, 174, 0, 0.993);
+    /* border-radius: 20px; */
+    font-size: 1.5em ;
+    border-style:groove;
+    border-color: darkgoldenrod;
+    
+    }
+
+.items{
+    display: flex;
+    flex-direction: row;
+}
+#btn1{
+    border-style: solid;
+    border-radius: 2.5em;
+}
+#btn2{
+    border-style: solid;
+    border-radius: 2.8em;
+} 
+
+#btn3{
+  color: black;
+  border-radius: 1.8vw; 
+
+} 
+
+h1{
+  color: rgb(252, 7, 7);
+  margin-left:350px;
+  margin-right:460px;
+  font-family:'Times New Roman', Times, serif;
+  text-decoration:underline;
+  
+}
